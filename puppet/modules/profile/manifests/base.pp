@@ -1,3 +1,6 @@
-class profile::base {
-  # base class assigned to every node
+class profile::base (){
+
+  file {'/etc/motd':
+    content => epp('profile/motd'),
+  }
 }

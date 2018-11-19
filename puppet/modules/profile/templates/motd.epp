@@ -1,0 +1,23 @@
+
+
+PPPPPPPPPPPPPPPPP                                                                                        tttt
+P::::::::::::::::P                                                                                    ttt:::t
+P::::::PPPPPP:::::P                                                                                   t:::::t
+PP:::::P     P:::::P                                                                                  t:::::t
+P::::P     P:::::Puuuuuu    uuuuuu ppppp   ppppppppp  ppppp   ppppppppp       eeeeeeeeeeee    ttttttt:::::ttttttt
+P::::P     P:::::Pu::::u    u::::u p::::ppp:::::::::p p::::ppp:::::::::p    ee::::::::::::ee  t:::::::::::::::::t
+P::::PPPPPP:::::P u::::u    u::::u p:::::::::::::::::pp:::::::::::::::::p  e::::::eeeee:::::eet:::::::::::::::::t
+P:::::::::::::PP  u::::u    u::::u pp::::::ppppp::::::pp::::::ppppp::::::pe::::::e     e:::::etttttt:::::::tttttt
+P::::PPPPPPPPP    u::::u    u::::u  p:::::p     p:::::pp:::::p     p:::::pe:::::::eeeee::::::e      t:::::t
+P::::P            u::::u    u::::u  p:::::p     p:::::pp:::::p     p:::::pe:::::::::::::::::e       t:::::t
+P::::P            u::::u    u::::u  p:::::p     p:::::pp:::::p     p:::::pe::::::eeeeeeeeeee        t:::::t
+P::::P            u:::::uuuu:::::u  p:::::p    p::::::pp:::::p    p::::::pe:::::::e                 t:::::t    tttttt
+PP::::::PP          u:::::::::::::::uup:::::ppppp:::::::pp:::::ppppp:::::::pe::::::::e                t::::::tttt:::::t
+P::::::::P           u:::::::::::::::up::::::::::::::::p p::::::::::::::::p  e::::::::eeeeeeee        tt::::::::::::::t
+P::::::::P            uu::::::::uu:::up::::::::::::::pp  p::::::::::::::pp    ee:::::::::::::e          tt:::::::::::tt
+PPPPPPPPPP              uuuuuuuu  uuuup::::::pppppppp    p::::::pppppppp        eeeeeeeeeeeeee            ttttttttttt
+
+######################################################
+# WELCOME TO YOUR PUPPET DEVELOPMENT ENVIRONMENT     #
+# This MOTD is managed in profile::base via motd.epp #
+######################################################

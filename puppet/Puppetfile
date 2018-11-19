@@ -1,0 +1,6 @@
+# local modules go here, in a development environment we use a local profile
+mod 'profile',   :local => true
+
+# forge modulesß
+mod 'puppetlabs-java',    :latest
+mod 'puppetlabs-stdlib',  :latest

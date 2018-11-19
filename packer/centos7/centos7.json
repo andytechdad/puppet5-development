@@ -54,7 +54,7 @@
   "post-processors": [
     [
       {
-        "output": "builds/{{.Provider}}-centos7.box",
+        "output": "builds/puppet5-dev.box",
         "type": "vagrant"
       }
     ]
